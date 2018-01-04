@@ -1,1 +1,1 @@
-# go-decode-json
+# Decoding a JSON String in go.
